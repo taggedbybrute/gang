@@ -1,0 +1,26 @@
+td{
+    border: 2px solid rgb(121, 38, 38)
+}
+body{
+    background-color: rgb(255, 238, 0)
+
+}
+body{
+    color: rgb(187, 14, 14)
+}
+h1{
+    color: black;
+    font-style: italic;
+}
+h2{
+    color: rgb(38, 0, 255);
+
+}
+dt{
+    color: rgb(74, 55, 156);
+    font-family: monospace;
+    font-size: large
+
+   
+
+}
